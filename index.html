@@ -48,7 +48,30 @@
       
       <div class="content col-auto" id="profile">
         <h3>Profile</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+          <div class="card" >
+            <div class="front" style="background-image: url('{{ m.img_url }}');">
+                <p class="large">{{ m.ranking }}</p>
+            </div>
+            
+            <div class="back">
+              <div>
+                <div class="title">
+                  {{ m.title }} 
+                  <span class="release_date">( {{ m.year }} )</span>
+                </div>
+                
+                <div class="rating">
+                  <label>{{ m.rating }}</label>
+                  <i class="fas fa-star star"></i>
+                </div>
+                
+                <p class="review">{{ m.review }} </p>
+                <p class="overview">{{ m.description }}</p>
+                <a href="{{ url_for('update', id = m.id) }}" class="button">Update</a>
+                <a href="{{ url_for('delete', id = m.id) }}" class="button delete-button">Delete</a>
+              </div>
+            </div>
+          </div>
       </div>
 
       <div class="content col-auto" id="apperance">

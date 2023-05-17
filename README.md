@@ -1,6 +1,6 @@
 ## Fictional Character Biography Website
 
-#### This is a Biography Website. Inspired from famous [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character)) movies, and books.
+#### This is a Biography Website. Inspired from [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character)) series.
 
 #### This project running on : [https://replit.com/@ViktoriusSuwand/AppBrewery-Day-82-Biography-Websites](https://replit.com/@ViktoriusSuwand/AppBrewery-Day-82-Biography-Websites)
 
