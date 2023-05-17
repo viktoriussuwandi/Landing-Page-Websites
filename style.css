@@ -1,9 +1,11 @@
-html, .container {
-  height : 100%;
-  width  : 100%;
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("assets/background.jpg");
+  background-color: transparent;
 }
 
-.content{
-  height : 80%;
-  width  : 100%;
+.container {
+  color:#fff;
 }
