@@ -2,10 +2,22 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("assets/background.jpg");
-  background-color: transparent;
+  background: url("assets/background_1.jpg");
 }
 
 .container {
   color:#fff;
+}
+
+.content3 {
+  background: url("assets/background_2.jpg");
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:black;
+  align-items: center;
+  justify-content: center;
 }
