@@ -6,6 +6,5 @@
 
 #### Documentation can be found on : [https://github.com/viktoriussuwandi/Biography-Websites](https://github.com/viktoriussuwandi/Biography-Websites)
 
-
 ## Development :
 Web Design Layout Template for another websites, such as : `biography`, or `portfolio`, or `landing page`.
