@@ -1,14 +1,9 @@
-html {
+html, .container {
   height : 100%;
   width  : 100%;
 }
 
-.header{
-  height : 5%;  
-}
-
-
-.container{
-  height : 100%;
+.content{
+  height : 80%;
   width  : 100%;
 }
