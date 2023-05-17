@@ -2,7 +2,7 @@
 
 #### This is a Biography Website. Inspired from famous [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character)) movies, and books.
 
-#### This project running on : [https://replit.com/@ViktoriusSuwand/AppBrewery-python-Day-82-Biography-Websites](https://replit.com/@ViktoriusSuwand/AppBrewery-python-Day-82-Biography-Websites)
+#### This project running on : [https://replit.com/@ViktoriusSuwand/AppBrewery-Day-82-Biography-Websites](https://replit.com/@ViktoriusSuwand/AppBrewery-Day-82-Biography-Websites)
 
 #### Documentation can be found on : [https://github.com/viktoriussuwandi/Biography-Websites](https://github.com/viktoriussuwandi/Biography-Websites)
 
