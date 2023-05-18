@@ -1,6 +1,6 @@
 ## Landing Page Website
 
-#### This is a Biography Website. Inspired from [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character)) series.
+#### This is a landing page Website. Inspired from [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character)) series.
 
 #### This project running on : [https://replit.com/@ViktoriusSuwand/AppBrewery-Day-82-Landing-Page-Websites](https://replit.com/@ViktoriusSuwand/AppBrewery-Day-82-Landing-Page-Websites)
 
