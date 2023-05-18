@@ -38,16 +38,22 @@ body, html {
   background-color: transparent;
   width:  200px;
   height: 300px;
+  border-radius: 5%;
   object-fit: cover;
   margin: 0;
   padding:0;
   opacity: 80%;
+}
+.flip-card, .flip-card-inner , .flip-card-front, .flip-card-back {
+  position: relative;
+  border-radius: 5%;
 }
 
 .flip-card {
   background-color: transparent;
   width: 200px;
   height: 300px;
+  margin: 5px;
   border: 1px solid #f1f1f1;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
@@ -88,6 +94,3 @@ body, html {
   color: white;
   transform: rotateY(180deg);
 }
-
-
-
