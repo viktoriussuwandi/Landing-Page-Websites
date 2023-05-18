@@ -12,7 +12,7 @@
    - Website extensible to API and security frameworks.
    - Proper DBMS for data safety.
 
-## Thanks to good source below :
+## Thanks to amazing source below :
 1. website character descriptions : [wikipedia](https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters)
    * [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character))
    * [Hermione Granger](https://en.wikipedia.org/wiki/Hermione_Granger)
