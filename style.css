@@ -2,31 +2,35 @@ body, html {
   display: flex;
   height: 100%;
   margin: 0;
+  padding: 0;
 }
 
-.bg-img1, .bg-img2 {
+.bg-img1, .bg-img2, .bg-img3 {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 200px;
+  margin-bottom: 50px;
 }
 
 .bg-img1 {
-  background-image: url("assets/background_1.jpg");
-  min-height: 200px;
+  background-image: url("https://wallpaperset.com/w/full/7/b/5/448920.jpg");
 }
 
 .bg-img2 {
-  background-image: url("assets/background_2.jpg");
-  min-height: 200px;
+  background-image: url("https://wallpaperset.com/w/full/3/e/a/448960.jpg");
+}
+
+.bg-img3 {
+  background-image: url("https://wallpaperset.com/w/full/2/6/4/448901.jpg");
 }
 
 .content{
   position: relative;
-  left: 0;
   width: 100%;
-  color: #000;
+  margin-bottom: 50px;
 }
 
