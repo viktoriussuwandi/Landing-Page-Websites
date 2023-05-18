@@ -89,3 +89,15 @@ body, html {
   color: white;
   transform: rotateY(180deg);
 }
+
+.carausel1, .carausel2, .carausel3, .carausel4, .carausel5 {
+  width:  100%;
+  height: 250px;
+  object-fit: cover;
+  opacity: 90%;
+}
+.movie_title, .movie_desc {
+  background-color: #006064;
+  opacity: 60%;
+  color: #fff;
+}
