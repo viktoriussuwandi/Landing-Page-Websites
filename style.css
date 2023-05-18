@@ -44,6 +44,7 @@ body, html {
   padding:0;
   opacity: 80%;
 }
+
 .flip-card, .flip-card-inner , .flip-card-front, .flip-card-back {
   position: relative;
   border-radius: 5%;
@@ -53,9 +54,16 @@ body, html {
   background-color: transparent;
   width: 200px;
   height: 300px;
-  margin: 5px;
+  margin: 2px;
   border: 1px solid #f1f1f1;
   perspective: 1000px;
+}
+
+.flip-card-back {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .flip-card-inner {
