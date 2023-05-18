@@ -1,4 +1,4 @@
-## Fictional Character Biography Website
+## Landing Page Website
 
 #### This is a Biography Website. Inspired from [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character)) series.
 
