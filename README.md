@@ -12,11 +12,11 @@
    - Website extensible to API and security frameworks.
    - Proper DBMS for data safety.
 
-## Thanks to awsome source below :
+## Thanks to good source below :
 1. website character descriptions : [wikipedia](https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters)
    * [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter_(character))
    * [Hermione Granger](https://en.wikipedia.org/wiki/Hermione_Granger)
    * [Ron Weasley](https://en.wikipedia.org/wiki/Ron_Weasley)
-2. Background wallpapers & images : [wallpaperset](https://wallpaperset.com/hogwarts-wallpapers) and [alphacoders](https://wall.alphacoders.com/)
+2. Background wallpapers & images : [wallpaperset](https://wallpaperset.com/hogwarts-wallpapers)
 4. Lorem Ipsum descriptions : [lipsum](https://www.lipsum.com/)
 5. CSS frameworks : [bootstrap](https://getbootstrap.com/)

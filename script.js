@@ -27,13 +27,20 @@ carausel2.src = shapshot_src[1];
 carausel3.src = shapshot_src[2];
 
 txt_title = ["title1", "title2", "title3"]
-txt_des   = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+txt_desc  = ["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."]
 
-title_carausel1 = document.getElementsByClassName("movie_title1");
+title_carausel1 = document.getElementById("movie_title1");
+title_carausel2 = document.getElementById("movie_title2");
+title_carausel3 = document.getElementById("movie_title3");
+
 title_carausel1.innerHTML = txt_title[0];
-
-title_carausel2 = document.getElementsByClassName("movie_title2");
 title_carausel2.innerHTML = txt_title[1];
-
-title_carausel3 = document.getElementsByClassName("movie_title3");
 title_carausel3.innerHTML = txt_title[2];
+
+desc_carausel1 = document.getElementById("movie_desc1");
+desc_carausel2 = document.getElementById("movie_desc2");
+desc_carausel3 = document.getElementById("movie_desc3");
+
+desc_carausel1.innerHTML = txt_desc[0];
+desc_carausel2.innerHTML = txt_desc[1];
+desc_carausel3.innerHTML = txt_desc[2];
