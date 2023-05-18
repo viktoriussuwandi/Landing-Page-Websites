@@ -109,3 +109,7 @@ body, html {
   color: #CFD8DC;
   opacity: 90%;
 }
+
+.form-group {
+  margin-bottom: 10px;
+}
