@@ -20,3 +20,5 @@
 2. Background wallpapers & images : [wallpaperset](https://wallpaperset.com/hogwarts-wallpapers)
 4. Lorem Ipsum descriptions : [lipsum](https://www.lipsum.com/)
 5. CSS frameworks : [bootstrap](https://getbootstrap.com/)
+
+![cover](assets/cover.jpg)
