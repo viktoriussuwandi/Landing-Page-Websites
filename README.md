@@ -7,7 +7,7 @@
 #### Documentation can be found on : [https://github.com/viktoriussuwandi/Landing-Page-Websites](https://github.com/viktoriussuwandi/Landing-Page-Websites)
 
 ## Development :
-1. Web Design Layout Template for Font-End, such as : `biography`, `portfolio`, or `landing page` websites.
+1. Web Design Layout Template for Front-End, such as : `biography`, `portfolio`, or `landing page` websites.
 2. Future potential development :
    - Website extensible to API and security frameworks.
    - Proper DBMS for data safety.
